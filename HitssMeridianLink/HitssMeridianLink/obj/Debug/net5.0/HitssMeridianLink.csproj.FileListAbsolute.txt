@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.exe
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.deps.json
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.runtimeconfig.json
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.dll
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\ref\HitssMeridianLink.dll
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\bin\Debug\net5.0\HitssMeridianLink.pdb
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.dll
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\ref\HitssMeridianLink.dll
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.pdb
+C:\Users\Eduardo\source\repos\HitssMeridianLink\HitssMeridianLink\obj\Debug\net5.0\HitssMeridianLink.genruntimeconfig.cache
